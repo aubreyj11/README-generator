@@ -28,7 +28,8 @@ const content = ({name, title, description, installation, usage, license, contri
     
 ## Usage
  ${usage}
-    
+ <br>
+ Link to walkthrough video: https://drive.google.com/file/d/1yVNiPjVpQWNbLDz1phdBM_dch0QleptM/view  
     
 ## Contributing
  ${contributing}
@@ -41,7 +42,7 @@ const content = ({name, title, description, installation, usage, license, contri
 ## Questions
 Here is my Github username and email. Feel free to reach out with questions!
 <br>
- Github: <a href="https://github.com/${username}">${username}
+ Github: <a href="https://github.com/${username}">${username}</a>
  <br>
  Email: ${email}
     
