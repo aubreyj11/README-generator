@@ -1,43 +1,54 @@
-# Node README Generator
-#### Aubrey Johnston
+# `${title}`
+#### `${name}`
 <br>
 
-## Technologies Used
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>Javascript</li>
-    <li>Node.js</li>
-</ul>    
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
+
 
 <br>
 
 ## Description
--What was your motivation?
--Why did you build this project? 
--What problem does it solve?
--What did you learn?
--What makes your project stand out?
+`${description}`
 
 <br>
 
-<br>
 
 ## Installation
-No installation required. Just visit the deployed website link:
+`${installation}`
 <br>
 
-<link>
 
 <br>
 
 ## Usage
-Explain here how the user will navigate and use the program.
+`${usage}`
 
 <br><br><br>
-![alt text](assets/images/readMePhoto.png)
 
 <br>
 
+## Contributing
+`${contributing}`
+<br>
+
+## Tests
+`${tests}`
+<br>
+
+## Questions
+`${questions}`
+
+<br>
+
+
+## License
+`${license}`
 
 
